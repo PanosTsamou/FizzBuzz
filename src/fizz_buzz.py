@@ -22,5 +22,4 @@ def fizzbuzz (number):
 
         return str(number)
         
-    else:
-        return result
+    return result
